@@ -24,5 +24,6 @@ Algoritma Greedy menyelesaikan masalah optimasi, yaitu untuk Maksimalisasi atau 
 
 # Contoh Screenshoot Hasil Running Program CashSplitter_Vending-Machine 📸
 
-![Screenshot 2025-07-04 145954](https://github.com/user-attachments/assets/1a8b1398-cabf-4a3f-87a0-8ec14441b537)
+<img width="621" alt="image" src="https://github.com/user-attachments/assets/11ae7a1c-75cc-4ecc-8cf8-8a5bf31a822a" />
+
 

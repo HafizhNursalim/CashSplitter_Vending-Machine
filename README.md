@@ -20,8 +20,9 @@ Namun dengan algoritma Greedy, banyak keping koin yang diberikan dapat menjadi 9
 Kata Greedy berasal dari bahasa Inggris yang artinya rakus. Algoritma ini merupakan teknik pemecahan masalah dalam pemrograman dengan cara kerja 🔽
 > Selalu memilih pilihan terbaik (paling menguntungkan) pada setiap langkah demi langkah tanpa mempertimbangkan pilihan lain dan keseluruhan masalah
 
-Pada program CashSplitter Vending Machine ini, algoritma Greedy mengambil langkah dengan meninjau koin terbesar pertama untuk kembalian, koin terbesar kedua, dan seterusnya hingga koin terkecil kedua, lalu koin terkecil terakhir..
+Algoritma Greedy menyelesaikan masalah optimasi, yaitu untuk Maksimalisasi atau Minimalisasi. Pada program CashSplitter Vending Machine ini, algoritma Greedy berfokus pada masalah optimasi Maksimalisasi yaitu dengan nilai terbesar terlebih dahulu. Algoritma Greedy mengambil langkah dengan meninjau banyak keping koin terbesar pertama untuk kembalian, keping koin terbesar kedua, dan seterusnya hingga keping koin terkecil kedua, lalu keping koin terkecil terakhir.. Program CashSplitter Vending Machine ini sangat cocok untuk jumlah yang sangat besar dan banyak.
 
 # Contoh Screenshoot Hasil Running Program CashSplitter_Vending-Machine 📸
+
 ![Screenshot 2025-07-04 145954](https://github.com/user-attachments/assets/1a8b1398-cabf-4a3f-87a0-8ec14441b537)
 

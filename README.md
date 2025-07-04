@@ -28,7 +28,7 @@ Algoritma Greedy menyelesaikan masalah optimasi, yaitu untuk Maksimalisasi atau 
 
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/478e7bf1-1f13-4bce-a44c-f92404102a74" />
 
-# ⚙️ Cara Menjalankan Progran
+# ⚙️ Cara Menjalankan Kode
 
 1.   Pada bagian menu IntelijIdea pergi ke bagian file -> New -> Project
 

@@ -38,7 +38,7 @@ Algoritma Greedy menyelesaikan masalah optimasi, yaitu untuk Maksimalisasi atau 
 
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/fa8799d0-27a0-4aab-9572-2b6c36ca7a44" />
 
-3. Pada bagian file Main.java isilah file tersebut dengan kode program yang telah dibuat 🙌
+3. Pada bagian file Main.java isilah file tersebut dengan kode program yang telah dibuat.
 
 
 
